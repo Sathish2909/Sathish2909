@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Pre-final year B.Tech student in Computer Science  
+- 🎓 Pre-final year B.E student in Computer Science  
 - 💼 Interned at **11milliondream Consultancy Services** – built a MERN stack project for SKU code generation and product database management  
 - 🧑‍🏫 Trainee at **Uniq Technologies** – trained in Python and Web Development  
 - 🚀 Eager to build scalable web applications and contribute to open-source  
