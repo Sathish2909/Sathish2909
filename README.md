@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Sathish2909 👋</h1>
 
 <p align="center">
-  A passionate Computer Science student | MERN Stack Developer | Python Web Enthusiast
+  A passionate Computer Science student | MERN Stack Developer 
 </p>
 
 ---
