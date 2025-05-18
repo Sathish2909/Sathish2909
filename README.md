@@ -1,7 +1,7 @@
-<h1 align="center">Hi there! I'm Sathish2909 👋</h1>
+<h1 align="center">Hi there! I'm Sathish 👋</h1>
 
 <p align="center">
-  A passionate Computer Science student | MERN Stack Developer 
+  A passionate Computer Science student | MERN Stack Developer | Python Web Enthusiast
 </p>
 
 ---
@@ -9,8 +9,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 Pre-final year B.E student in Computer Science  
-- 💼 Interned at **11milliondream Consultancy Services** – built a MERN stack project for SKU code generation and product database management  
-- 🧑‍🏫 Trainee at **Uniq Technologies** – trained in Python and Web Development  
+- 💼 Interned at 11milliondreams Consultancy Services – built a MERN stack project for SKU code generation and product database management  
+- 🧑‍🏫 Trainee at Unique Technologies – trained in Python and Web Development  
 - 🚀 Eager to build scalable web applications and contribute to open-source  
 - 🔍 Actively looking for final-year internship opportunities  
 
@@ -38,11 +38,26 @@
 
 ---
 
+### 🔥 GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sathish2909&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### ✨ GitHub Streaks
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sathish2909&theme=tokyonight_duo&hide_border=true" />
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sathish-29-kumar/)  
-- [Email](mailto:sathishshanmugam2904@gmail.com)  
-
+- [Email](mailto:sathishshanmugam2909@gmail.com)
 
 ---
 
