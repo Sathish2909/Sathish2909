@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Sathish 👋</h1>
 
 <p align="center">
-  A passionate Computer Science student | MERN Stack Developer | Python Web Enthusiast
+  A passionate Computer Science student | MERN Stack Developer 
 </p>
 
 ---
@@ -41,8 +41,9 @@
 ### 🔥 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sathish2909&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathish2909&theme=react-dark&hide_border=true&area=true" />
 </p>
+
 
 ---
 
